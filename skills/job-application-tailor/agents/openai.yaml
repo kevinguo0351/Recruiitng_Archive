@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Application Tailor"
+  short_description: "Build truthful ATS-tailored application packages"
+  default_prompt: "Research this role and create an auditable, privacy-safe application package with a truthful ATS-tailored resume."
