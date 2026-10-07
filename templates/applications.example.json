@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Example Company",
+    "role": "2027 Finance Analyst",
+    "url": "https://example.test/jobs/finance-analyst",
+    "status": "researching",
+    "fit_and_next_step": "Confirm graduation window and work authorization language.",
+    "sponsorship_evidence": "No role-specific statement found.",
+    "confidence": "low",
+    "updated_date": "2026-10-07"
+  },
+  {
+    "company": "Sample Advisory",
+    "role": "Graduate Strategy Associate",
+    "url": "https://example.test/jobs/strategy-associate",
+    "status": "ready",
+    "fit_and_next_step": "Prepare tailored resume and complete application form.",
+    "sponsorship_evidence": "Official posting says sponsorship is considered case by case.",
+    "confidence": "high - official posting",
+    "updated_date": "2026-10-07"
+  }
+]

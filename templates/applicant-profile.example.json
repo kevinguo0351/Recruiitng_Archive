@@ -1,0 +1,28 @@
+{
+  "name": "Jordan Lee",
+  "contact": "city, state | applicant@example.test | linkedin.com/in/example",
+  "target_company": "Example Company",
+  "profile": "Early career analyst with verified experience in financial modeling, workflow improvement, and client communication.",
+  "education": [
+    {
+      "school": "Example University",
+      "degree": "B.S. in Finance",
+      "location": "Example City, ST",
+      "date": "May 2027",
+      "bullets": ["GPA: 3.8 / 4.0", "Finance Association"]
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Example Analytics Lab",
+      "role": "Student Analyst",
+      "location": "Example City, ST",
+      "dates": "Sep 2025 - Present",
+      "bullets": [
+        "Built a financial model from verified operating assumptions and documented the scenario logic.",
+        "Presented findings to a five-person project team and incorporated reviewer feedback."
+      ]
+    }
+  ],
+  "skills": ["Excel", "Python", "SQL"]
+}
